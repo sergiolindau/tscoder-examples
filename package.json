@@ -1,0 +1,13 @@
+{
+    "name": "tscoder-examples",
+    "version": "1.0.0",
+    "description": "TSCoder examples repository.",
+    "license": "MIT",
+    "workspaces": [
+        "./example/*",
+        "./test/*"
+    ],
+    "scripts": {
+        "clean": "npm run clean -ws"
+   }
+}
