@@ -1,3 +1,6 @@
+import tscoder from 'tscoder'
+
+console.log(tscoder.tscoder.test0())
 const timeWas = performance.now()
 
 console.log('Synchronous pipeline start.')
