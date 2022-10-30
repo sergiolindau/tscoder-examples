@@ -9,6 +9,6 @@
     ],
     "scripts": {
         "clean": "npm run clean -ws",
-        "ex01": "npm run build -w ./example/01-simple-definitions-generation/"
+        "ex01": "npm run build:dev -w ./example/01-simple-definitions-generation/"
    }
 }
